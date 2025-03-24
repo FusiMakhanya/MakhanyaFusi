@@ -1,9 +1,9 @@
 # Hi there, I'm, Fusi Makhanya 👋
 
-💻Software Developer | Open Source Enthusiast 
+### 💻Software Developer | Open Source Enthusiast 
 Passionate about building scalable applications, contributing to open-source projects and learning new tech.
 
-##🔧Tech Stack & Tools
+## 🔧Tech Stack & Tools
 - Programming languages (Javascript, Java)
 - Frameworks & libraries (React, Node.js)
 - Databases(MySQL)
@@ -16,5 +16,5 @@ Passionate about building scalable applications, contributing to open-source pro
 - How to reach me: makhanyafusi@gmail.com
 
 
-##Connect with Me
+## 🤝Connect with Me
 - 🔔Fun Fact: I love contributing to open source and solving coding challenges on Leetcode & Coderbyte
