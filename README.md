@@ -16,5 +16,5 @@ Passionate about building scalable applications, contributing to open-source pro
 - How to reach me: makhanyafusi@gmail.com
 
 
-##🤝Connect with Me
+##Connect with Me
 - 🔔Fun Fact: I love contributing to open source and solving coding challenges on Leetcode & Coderbyte
