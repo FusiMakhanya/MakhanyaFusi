@@ -1,20 +1,12 @@
-# Hi there, I'm, Fusi Makhanya 👋
+### Hi there 👋, my name is Fusi Makhanya
+#### Software Developer | Open Source Enthusiast 
+![Software Developer](https://media.licdn.com/dms/image/v2/D5616AQFAAiXgUmFfwQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726415560208?e=1748476800&v=beta&t=wWqsA7A2LYBUmgJIwTNJQjnmSSWPRWvwUpIt6tliHU0)
 
-### 💻Software Developer | Open Source Enthusiast 
-Passionate about building scalable applications, contributing to open-source projects and learning new tech.
+Results driven software developer. Passionate about building scalable applications, contributing to open-source projects and learning new tech.
 
-## 🔧Tech Stack & Tools
-- Programming languages (Javascript, Java)
-- Frameworks & libraries (React, Node.js)
-- Databases(MySQL)
+Skills: REACT / JS / HTML / CSS/ MySQL / JAVA
 
-## About Me
-- I'm currently working on
-- I'm currently learning Java for back-end
-- I'm open to Open-source projects
-- Ask me about Javascript, React and  Node.js
-- How to reach me: makhanyafusi@gmail.com
-
-
-## 🤝Connect with Me
+- 🔭 I’m currently working on this page.
+  
+- ## 🤝Connect with Me
 - 🔔Fun Fact: I love contributing to open source and solving coding challenges on Leetcode & Coderbyte
