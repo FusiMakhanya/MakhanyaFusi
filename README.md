@@ -4,7 +4,7 @@
 
 Results driven software developer. Passionate about building scalable applications, contributing to open-source projects and learning new tech.
 
-Skills: REACT / JS / HTML / CSS/ MySQL / JAVA
+Skills: ASP .NET MVC / REACT / JS / HTML / CSS/ MySQL /
 
 - 🔭 I’m currently working on this page.
   
